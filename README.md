@@ -5,6 +5,8 @@ To setup a project use any one script depending on platform you are on or use py
 linux/mac : use .sh file.
 windows use : .bat file
 
+### (Executable file will be available in next update)
+
 ### Setps : 
 
 - Place the file in folder where you want to create a project

@@ -5,7 +5,7 @@ To setup a project use any one script depending on platform you are on or use py
 linux/mac : use .sh file.
 windows use : .bat file
 
-#### (Executable file will be available in next update for windows so we can setup whole nodejs project in two clicks)
+#### (Executable files will be available in the next update so we can setup whole nodejs project in two clicks)
 
 ### Setps : 
 
